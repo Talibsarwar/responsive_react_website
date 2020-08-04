@@ -1,12 +1,15 @@
 import React from 'react';
 import Card from '../components/Card';
 import Sdata from '../components/Sdata';
+import Typing from 'react-typing-animation';
 
 const Service = () => {
   return (
     <>
       <div className="my-5">
-        <h1 className="text-center">Our Services</h1>
+        <Typing speed={150}>
+          <h1 className="text-center">Our Services</h1>
+        </Typing>
       </div>
       <div className="container-fluid mb-5">
         <div className="row">
