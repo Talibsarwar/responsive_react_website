@@ -237,7 +237,7 @@ footer p{
   }
 
   .bubble{
-    width: 450px;
+    width: 250px;
     height: 450px;
   }
 
@@ -275,6 +275,11 @@ footer p{
 
   #header .header-img img{
     width: 80%;
+  }
+
+  .bubble{
+    width: 250px;
+    height: 450px;
   }
 
   footer{
