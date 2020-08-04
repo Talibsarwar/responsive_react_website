@@ -1,9 +1,9 @@
-import web1 from '../images/Web-Development.jpg';
-import web2 from '../images/WordPress Development.jpg';
-import web3 from '../images/App Development.png';
-import web4 from '../images/Software Development.png';
-import web5 from '../images/SEO.png';
-import web6 from '../images/Content Writing.jpg';
+import web1 from '../images/Web-Development.gif';
+import web2 from '../images/WordPress Development.gif';
+import web3 from '../images/App Development.gif';
+import web4 from '../images/Software Development.gif';
+import web5 from '../images/SEO.gif';
+import web6 from '../images/Content Writing.gif';
 
 const Sdata = [
     {
