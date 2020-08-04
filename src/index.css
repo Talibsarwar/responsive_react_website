@@ -120,7 +120,8 @@ footer p{
 }
 
 .bubble{
-  width: 450px;
+  text-align: center;
+  width: 380px;
   height: 450px;
   content: '';
   border-radius: 54% 46% 42% 58% / 60% 58% 42% 40%;
