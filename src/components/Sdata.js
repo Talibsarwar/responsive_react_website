@@ -8,15 +8,15 @@ import web6 from '../images/Content Writing.jpg';
 const Sdata = [
     {
         imgsrc: web1,
-        title: "Website Development",
+        title: "Website Development Services",
     },
     {
         imgsrc: web2,
-        title: "Wordpress Development",
+        title: "Wordpress Development Services",
     },
     {
         imgsrc: web3,
-        title: "Application Development",
+        title: "Application Development Services",
     },
     {
         imgsrc: web4,

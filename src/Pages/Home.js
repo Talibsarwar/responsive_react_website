@@ -1,5 +1,5 @@
 import React from 'react';
-import web from '../images/home page image.gif';
+import web from '../images/home page image.png';
 import Common from '../components/Common';
 
 const Home = () => {

@@ -1,5 +1,5 @@
 import React from 'react';
-import aboutimg from '../images/About image.png';
+import aboutimg from '../images/About image.gif';
 import Common from '../components/Common';
 
 const About = () => {
