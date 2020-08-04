@@ -1,12 +1,13 @@
 import React from 'react';
 
 function NotFound() {
-    return (
-      <div>
+  return (
+    <div className="bubble">
+      <div className="NotFound">
         <h1>Not found!</h1>
-        <p>Sorry your page was not found!</p>
       </div>
-    );
-  }
+    </div>
+  );
+}
 
-  export default NotFound;
+export default NotFound;
