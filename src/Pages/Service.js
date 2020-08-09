@@ -17,7 +17,7 @@ const Service = () => {
             <div className="row gy-4">
               {
                 Sdata.map((val, ind) => {
-                  return <Card key={ind} imgsrc={val.imgsrc} title={val.title} />
+                  return <Card key={ind} imgsrc={val.imgsrc} title={val.title} paragraph={val.paragraph} />
                 })
               }
             </div>

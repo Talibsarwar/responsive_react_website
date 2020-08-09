@@ -111,6 +111,16 @@ footer p{
   color: #3498db !important;
 }
 
+/**********Card Animation**********/
+.card{
+  transition: transform .2s; /* Animation */
+  margin: 0 auto;
+}
+
+.card:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
 /**********Page Not Found**********/
 
 .NotFound h1{

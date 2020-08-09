@@ -1,6 +1,12 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 
 const Contact = () => {
+  
+  const element = useRef(null);
+
+  useEffect(() => {
+    element.current.focus();
+  })
 
   const [data, setData] = useState({
     fullname: "",
@@ -38,7 +44,8 @@ const Contact = () => {
                 <label for="exampleFormControlInput1" className="form-label">
                   Full Name
                 </label>
-                <input type="text"
+                <input ref={element}
+                  type="text"
                   className="form-control"
                   id="exampleFormControlInput1"
                   name="fullname"
