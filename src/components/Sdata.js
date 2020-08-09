@@ -24,7 +24,7 @@ const Sdata = [
     {
         imgsrc: web4,
         title: "Software Development Services",
-        paragraph: "We have experts in Software Development having command on C, C++ and C#.",
+        paragraph: "We have experts in Software Development having command on C/C++/C# and .Net with experience",
     },
     {
         imgsrc: web5,
