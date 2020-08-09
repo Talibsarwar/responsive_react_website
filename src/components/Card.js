@@ -12,7 +12,7 @@ const Card = (props) => {
                         <p className="card-text">
                             {props.paragraph}
                         </p>
-                        <NavLink to="#" className="btn btn-primary">Go somewhere</NavLink>
+                        <NavLink to="#" className="btn btn-primary">Click Here</NavLink>
                     </div>
                 </div>
             </div>
