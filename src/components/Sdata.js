@@ -9,32 +9,32 @@ const Sdata = [
     {
         imgsrc: web1,
         title: "Website Development Services",
-        paragraph: "We have experts in Web Development having command on HTML/CSS, JavaScript and Php.",
+        paragraph: "We have expert Web Developers specialist in HTML/CSS, JS and Php.",
     },
     {
         imgsrc: web2,
         title: "Wordpress Development Services",
-        paragraph: "We have experts in Wordpress Development having command on WordPress and other Cms.",
+        paragraph: "We have expert Wordpress Developers also specialist in other Cms.",
     },
     {
         imgsrc: web3,
         title: "Application Development Services",
-        paragraph: "We have experts in App Development having command on React, ReactNative and FireBase.",
+        paragraph: "We have expert App Developers having command on React",
     },
     {
         imgsrc: web4,
         title: "Software Development Services",
-        paragraph: "We have experts in Software Development having command on C/C++/C# and .Net with experience",
+        paragraph: "We have expert Software Developers specialist in C, C++, C#, Dot Net.",
     },
     {
         imgsrc: web5,
         title: "Search Engine Optimization Services",
-        paragraph: "We have experts in SEO having command in On/Off Page Optimization and familiar with seo tools such as Semrush.",
+        paragraph: "We have SEO experts in On/Off Page Optimization and familiar with seo tools such as Semrush.",
     },
     {
         imgsrc: web6,
         title: "SEO Friendly Content Writing Services",
-        paragraph: "We have experts in web development having command in SEO Friendly Content Writing Services with zero plug.",
+        paragraph: "We have expert content writers having command in SEO Friendly Content Writing Services.",
     },
 ];
 

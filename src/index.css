@@ -112,9 +112,10 @@ footer p{
 }
 
 /**********Card Animation**********/
+
 .card{
+  height: auto !important;
   transition: transform .2s; /* Animation */
-  margin: 0 auto;
 }
 
 .card:hover {
@@ -256,8 +257,6 @@ footer p{
   }
 }
 
-
-
 @media (max-width: 768px){
   .navbar-brand{
     font-size: 1.5rem !important;
@@ -296,3 +295,4 @@ footer p{
     margin-top: 250px;
   }
 }
+
