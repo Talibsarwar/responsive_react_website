@@ -114,7 +114,6 @@ footer p{
 /**********Card Animation**********/
 
 .card{
-  height: auto !important;
   transition: transform .2s; /* Animation */
 }
 
